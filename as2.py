@@ -1,2 +1,0 @@
-hello smriti
-hi smriti
